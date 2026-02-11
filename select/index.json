@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "星に願いを",
+  "base_artist": "Myuk",
+  "createdAt": "2026-02-11T15:40:16.992289Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "星に願いを",
+      "artist": "LEO",
+      "has_synced": false,
+      "path": "select/01_星に願いを_LEO.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "星に願いを",
+      "artist": "松岡みやび",
+      "has_synced": false,
+      "path": "select/02_星に願いを_松岡みやび.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "星に願いを",
+      "artist": "Myuk",
+      "has_synced": true,
+      "path": "select/03_星に願いを_Myuk.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "星に願いを",
+      "artist": "森高千里",
+      "has_synced": false,
+      "path": "select/04_星に願いを_森高千里.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "星に願いを",
+      "artist": "Moritaka, Chisato",
+      "has_synced": false,
+      "path": "select/05_星に願いを_Moritaka,_Chisato.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "星に願いを",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": false,
+      "path": "select/06_星に願いを_9mm_Parabellum_Bullet.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "星に願いを",
+      "artist": "flumpool",
+      "has_synced": true,
+      "path": "select/07_星に願いを_flumpool.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "星に願いを",
+      "artist": "RIPSLYME",
+      "has_synced": true,
+      "path": "select/08_星に願いを_RIPSLYME.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "星に願いを",
+      "artist": "Cocco",
+      "has_synced": true,
+      "path": "select/09_星に願いを_Cocco.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "星に願いを (ALBUM VERSION)",
+      "artist": "GOING STEADY",
+      "has_synced": false,
+      "path": "select/10_星に願いを_(ALBUM_VERSION)_GOING_STEADY.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "星に願いを",
+      "artist": "Chisato Moritaka",
+      "has_synced": false,
+      "path": "select/11_星に願いを_Chisato_Moritaka.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "星に願いを(CD初収録)",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/12_星に願いを(CD初収録)_RIP_SLYME.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "星に願いを",
+      "artist": "May J.",
+      "has_synced": true,
+      "path": "select/13_星に願いを_May_J..lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "星に願いを",
+      "artist": "The Birthday",
+      "has_synced": true,
+      "path": "select/14_星に願いを_The_Birthday.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "i BELIEVE～星に願いを",
+      "artist": "So'Fly",
+      "has_synced": true,
+      "path": "select/15_i_BELIEVE~星に願いを_So'Fly.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "星に願いを (When You Wish Upon a Star)",
+      "artist": "つじあやの",
+      "has_synced": true,
+      "path": "select/16_星に願いを_(When_You_Wish_Upon_a_Star)_つじあやの.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "星に願いを (Ryu-Take 2023 ver.)",
+      "artist": "flumpool",
+      "has_synced": true,
+      "path": "select/17_星に願いを_(Ryu-Take_2023_ver.)_flumpool.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星に願いを",
+      "artist": "Myuk",
+      "has_synced": false,
+      "path": "select/pl_01_星に願いを_Myuk.txt"
+    }
+  ]
+}
